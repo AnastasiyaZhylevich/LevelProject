@@ -61,9 +61,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\TreePackVol.1\Sample\LB_CameraMove.cs" />
     <Compile Include="Assets\ModularFirstPersonController\FirstPersonController\FirstPersonController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\TreePackVol.1\Doc\Tree Pack 2.txt" />
+    <None Include="Assets\TreePackVol.1\Doc\Quick Start.txt" />
     <None Include="Assets\3D Haven\Free Fantasy Terrain Textures\Documentation\Version Log.txt" />
   </ItemGroup>
   <ItemGroup>
